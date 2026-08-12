@@ -21,9 +21,6 @@ This repository contains a small server written in TypeScript. It's intended as 
 2. Install dependencies:
 
    npm install
-   # or
-   # yarn
-
 ## Build
 
 If the project uses TypeScript, compile to JavaScript:
