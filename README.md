@@ -21,6 +21,7 @@ This repository contains a small server written in TypeScript. It's intended as 
 2. Install dependencies:
 
    npm install
+
 ## Build
 
 If the project uses TypeScript, compile to JavaScript:
@@ -50,10 +51,6 @@ For development with auto-reload (if configured):
 
 - If scripts or file locations differ in this repo, update the commands above to match.
 - Add any environment variables or configuration needed to run the server.
-
-## Contributing
-
-Feel free to open issues or pull requests with improvements or fixes.
 
 ## License
 
